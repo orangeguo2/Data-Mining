@@ -2,9 +2,9 @@
 Some small projects about data mining. Different branches are for different projects.
 
 ## Tech Package
-Python 3.6.5
-Anaconda (https://www.anaconda.com) 
-The Jupyter Notebook — IPython
+- Python 3.6.5
+- Anaconda (https://www.anaconda.com) 
+- The Jupyter Notebook — IPython
 
 ## Package
 numpy, pandas, SciPy
