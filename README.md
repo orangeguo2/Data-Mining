@@ -1,8 +1,10 @@
 # Data-Mining
 Some small projects about data mining. Different branches are for different projects.
 
-## Platform and Languate
-Anaconda (https://www.anaconda.com) and Python 3.6.5
+## Tech Package
+Python 3.6.5
+Anaconda (https://www.anaconda.com) 
+The Jupyter Notebook — IPython
 
 ## Package
 numpy, pandas, SciPy
