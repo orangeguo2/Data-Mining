@@ -8,7 +8,7 @@ Anaconda (https://www.anaconda.com) and Python 3.6.5
 numpy, pandas, SciPy
 
 
-## Branch 1. Collaboration Filtering for Movie Rating.ipynb
+## Branch 1. Collaboration Filtering for Movie Rating
 ### Content
 - Calculate similarity between reviewer using Euclidean Distance and Pearson Correlation
 - Gets recommendations for a person by using a weighted average of every other user's rankings based on above similarity
